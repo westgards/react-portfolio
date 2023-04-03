@@ -1,0 +1,30 @@
+/*  global variables to apply styling */
+
+:root {
+    --max-width: 1350px; 
+    --color-tertiary: rgb(107, 161, 169);
+    --color-secondary: #0c2513;
+    --color-black: #1e4228;
+    --color-white: rgb(246, 241, 245);
+    --color-black-darker: rgb(0, 0, 0);
+    --color-primary: #32cfb4;
+  }
+
+  body {
+      margin: 0;
+      font-family: 'Futara', sans-serif;
+      background-color: var(--color-secondary);
+    }
+    
+    code {
+      font-family: Futara,
+        monospace;
+    }
+  
+  .App {
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+      align-items: center;
+      height: 100vh;
+  }
