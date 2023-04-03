@@ -1,0 +1,19 @@
+[
+    {
+        "id": 1,
+        "title": "Work Day Scheduler",
+        "description": "Work Day Scheduler is a simple calendar application that allows a user to save events for each hour of the day. This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery..",
+        "linkDeployment": "https://westgards.github.io/05-work-day-scheduler/src/app/",
+        "linkRepository": "https://github.com/westgards/05-work-day-scheduler",
+        "screenshot": "./images/workday-scheduler.png"
+
+    },
+    {
+        "id": 2,
+        "title": "Note Taker",
+        "description": "This application can be used to write and save notes. This application will use an Express.js back end and will save and retrieve note data from a JSON file",
+        "linkDeployment": "https://evening-thicket-56562.herokuapp.com/",
+        "linkRepository": "https://github.com/westgards/note-taker",
+        "screenshot": "./images/note-taker.png"
+    }
+]
