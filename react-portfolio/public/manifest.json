@@ -36,8 +36,27 @@
       "src": "logo_mail.png",
       "type": "image/png",
       "sizes": "512x512"
+    },
+    {
+      "src": "readme-generator.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    },
+    {
+      "src": "password-generator.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    },
+    {
+      "src": "horiseon-mockup.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    },
+    {
+      "src": "employee-tracker.png",
+      "type": "image/png",
+      "sizes": "512x512"
     }
-
   ],
   "start_url": ".",
   "display": "standalone",

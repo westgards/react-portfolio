@@ -6,7 +6,6 @@
         "linkDeployment": "https://westgards.github.io/05-work-day-scheduler/src/app/",
         "linkRepository": "https://github.com/westgards/05-work-day-scheduler",
         "screenshot": "./images/workday-scheduler.png"
-
     },
     {
         "id": 2,
@@ -15,5 +14,37 @@
         "linkDeployment": "https://evening-thicket-56562.herokuapp.com/",
         "linkRepository": "https://github.com/westgards/note-taker",
         "screenshot": "./images/note-taker.png"
+    },
+    {
+        "id": 3,
+        "title": "Readme Generator",
+        "description": "This application can be used to write and save notes. This application will use an Express.js back end and will save and retrieve note data from a JSON file",
+        "linkDeployment": "https://github.com/westgards/readme-generator",
+        "linkRepository": "https://github.com/westgards/readme-generator",
+        "screenshot": "./images/readme-generator.png"
+    },
+    {
+        "id": 4,
+        "title": "Password Generator",
+        "description": "JavaScript password generator is an application that will allow a user to generate a random password based on criteria they've selected. This app will run in a browser.",
+        "linkDeployment": "https://westgards.github.io/password-generator/src/app/",
+        "linkRepository": "https://github.com/westgards/password-generator",
+        "screenshot": "./images/password-generator.png"
+    },
+    {
+        "id": 5,
+        "title": "Horiseon Mockup",
+        "description": "This is the mockup for the Horiseon website. It is important for their buisness to support web accessibilty while also increasing their presence in search engine hits. Accessibilty features were added to the code base by implementing semantic HTML, increased the number of alt attributes.",
+        "linkDeployment": " https://westgards.github.io/Horiseon_mockup/Develop/",
+        "linkRepository": ": https://github.com/westgards/Horiseon_mockup",
+        "screenshot": "./images/horiseon-mockup.png"
+    },
+    {
+        "id": 6,
+        "title": "Employee Tracker",
+        "description": "This is a command-line application from scratch to manage a company's employee database, using Node.js, Inquirer, and MySQL.",
+        "linkDeployment": "https://watch.screencastify.com/v/2l8bHPjNrHVeLOvRrCQQ",
+        "linkRepository": "https://github.com/westgards/employee_tracker",
+        "screenshot": "./images/employee-tracker.png"
     }
 ]

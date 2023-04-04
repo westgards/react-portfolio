@@ -12,7 +12,8 @@ function Project({project}) {
             <p>{project.description}</p>
         </div>
         <a href={project.linkDeployment} className="button" target="_blank" rel="noreferrer">Go to Application</a>
-        <a href={project.linkRepository} target="_blank" rel="noreferrer" fill="var(--color-primary)" role="img" viewBox="0 0 24 24"><imglogo src="logo_github_icon.png" alt="github"></imglogo>
+        <a href={project.linkRepository} target="_blank" rel="noreferrer" fill="var(--color-primary)" role="img" viewBox="0 0 24 24">
+        <img src="logo_github_icon.png" alt="github"></img>
         </a>
     </div>
   )
