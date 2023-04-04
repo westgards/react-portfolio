@@ -23,7 +23,7 @@ function ContactForm() {
     setFirstName("");
     setLastName("");
   };
-
+// TODO: make some fields required
   return (
     <div>
       <p>

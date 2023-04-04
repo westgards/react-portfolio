@@ -14,5 +14,5 @@
 }
 
 .social-media-wrapper    a:hover:not(:last-child){
-    transform: scale(3.2);
+    transform: scale(1.5);
 }
